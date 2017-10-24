@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*кщ.php</mask>
+      <mask>*кщг.php</mask>
+      <mask>*кщге.php</mask>
+      <mask>*кщгеу.php</mask>
+      <mask>*кщгеу*.php</mask>
+      <mask>*кщге*.php</mask>
+      <mask>*кщг*.php</mask>
+      <mask>*кщ*.php</mask>
+      <mask>*к*.php</mask>
+      <mask>**.php</mask>
+      <mask>*r*.php</mask>
+      <mask>*ro*.php</mask>
+      <mask>*rou*.php</mask>
+      <mask>*route*.php</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtm</mask>
+      <mask>*.phtml</mask>
+    </recentFileMasks>
+  </component>
+</application>
