@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
@@ -16,19 +18,24 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.pht,</mask>
-      <mask>*.pht</mask>
       <mask>*.pph</mask>
       <mask>*.pp</mask>
       <mask>*.p</mask>
-      <mask>*routes.php</mask>
-      <mask>*route.php</mask>
       <mask>*rout.php</mask>
-      <mask>*rou.php</mask>
-      <mask>*ro.php</mask>
-      <mask>*r.php</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
       <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+      <mask>*r.php</mask>
+      <mask>*ro.php</mask>
+      <mask>*rou.php</mask>
+      <mask>*route.php</mask>
+      <mask>*routes.php</mask>
+      <mask>*</mask>
+      <mask>*s</mask>
+      <mask>*scs</mask>
+      <mask>*scss</mask>
     </recentFileMasks>
   </component>
 </application>
