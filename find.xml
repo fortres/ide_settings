@@ -7,11 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -20,12 +17,10 @@
       <mask>*.pht,</mask>
       <mask>*.pph</mask>
       <mask>*.pp</mask>
-      <mask>*.p</mask>
       <mask>*rout.php</mask>
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
-      <mask>*.ph</mask>
       <mask>*r.php</mask>
       <mask>*ro.php</mask>
       <mask>*rou.php</mask>
@@ -36,8 +31,14 @@
       <mask>*sc</mask>
       <mask>*s</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
