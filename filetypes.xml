@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="art" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
