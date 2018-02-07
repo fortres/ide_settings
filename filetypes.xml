@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*css" type=".env file" />
+      <mapping ext="css" type=".env file" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="art" type="PLAIN_TEXT" />
