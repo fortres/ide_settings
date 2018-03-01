@@ -5,6 +5,7 @@
       <mapping pattern="*.css.map" type=".env file" />
       <mapping ext="css" type=".env file" />
       <removed_mapping ext="css" type="CSS" />
+      <mapping ext="-with-invitehtml" type="HTML" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="art" type="PLAIN_TEXT" />
