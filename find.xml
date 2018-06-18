@@ -1,39 +1,41 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.pht,</mask>
       <mask>*.pph</mask>
       <mask>*.pp</mask>
-      <mask>*.p</mask>
       <mask>*rout.php</mask>
-      <mask>*.phtml</mask>
-      <mask>*.phtm</mask>
-      <mask>*.pht</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*r.php</mask>
       <mask>*ro.php</mask>
       <mask>*rou.php</mask>
       <mask>*route.php</mask>
       <mask>*routes.php</mask>
-      <mask>*</mask>
-      <mask>*s</mask>
-      <mask>*scs</mask>
       <mask>*scss</mask>
+      <mask>*scs</mask>
+      <mask>*sc</mask>
+      <mask>*s</mask>
+      <mask>*</mask>
+      <mask>*.p</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.jsx</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtm</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
