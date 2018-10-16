@@ -4,6 +4,7 @@
       <mapping pattern="node_modules/*" type=".env file" />
       <mapping pattern="*.css.map" type=".env file" />
       <mapping ext="-with-invitehtml" type="HTML" />
+      <mapping pattern=".env_temp" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="art" type="PLAIN_TEXT" />
