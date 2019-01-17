@@ -20,8 +20,8 @@
     <mask>*.phtml</mask>
     <mask>*routes.php</mask>
     <mask>*css</mask>
-    <mask>*js</mask>
     <mask>*php</mask>
     <mask>*scss</mask>
+    <mask>*js</mask>
   </component>
 </application>
