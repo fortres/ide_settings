@@ -1,7 +1,7 @@
 <application>
-  <component name="NotificationConfiguration" systemNotifications="false">
-    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
-    <notification groupId="Platform and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Project Settings" displayType="NONE" shouldLog="false" />
+  <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
+    <notification groupId="File Watcher Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" shouldLog="false" />
   </component>
 </application>
