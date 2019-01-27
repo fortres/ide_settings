@@ -2,6 +2,7 @@
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CollapseBlock" />
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -9,6 +10,18 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CollapseSelection" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
