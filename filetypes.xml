@@ -1,14 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="node_modules/*" type=".env file" />
-      <mapping pattern="*.css.map" type=".env file" />
-      <mapping ext="-with-invitehtml" type="HTML" />
-      <mapping pattern=".env_temp" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="art" type="PLAIN_TEXT" />
-      <mapping pattern="SelectCourseItem" type="TypeScript JSX" />
+      <mapping pattern="docker_php-fpm" type="PLAIN_TEXT" />
+      <mapping pattern="teachers-custom" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="reviews-main" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
