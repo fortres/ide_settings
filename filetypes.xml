@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="docker_php-fpm" type="PLAIN_TEXT" />
-      <mapping pattern="reviews-main" type="PLAIN_TEXT" />
+      <mapping ext="phtml" type="HTML" />
       <mapping pattern="teachers-custom" type="PLAIN_TEXT" />
+      <mapping pattern="reviews-main" type="PLAIN_TEXT" />
+      <mapping pattern="docker_php-fpm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
