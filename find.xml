@@ -21,8 +21,8 @@
     <mask>*.routes.php</mask>
     <mask>routes.php</mask>
     <mask>*routes.php</mask>
-    <mask>*jsx</mask>
     <mask>*scss</mask>
+    <mask>*jsx</mask>
     <mask>*js</mask>
   </component>
 </application>
