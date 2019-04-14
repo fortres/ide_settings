@@ -21,8 +21,9 @@
     <mask>*.routes.php</mask>
     <mask>routes.php</mask>
     <mask>*routes.php</mask>
-    <mask>*js</mask>
-    <mask>*jsx</mask>
     <mask>*scss</mask>
+    <mask>*jsx</mask>
+    <mask>*js</mask>
+    <mask>*rtest.js</mask>
   </component>
 </application>
