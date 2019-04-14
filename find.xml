@@ -22,7 +22,7 @@
     <mask>routes.php</mask>
     <mask>*routes.php</mask>
     <mask>*js</mask>
-    <mask>*scss</mask>
     <mask>*jsx</mask>
+    <mask>*scss</mask>
   </component>
 </application>
