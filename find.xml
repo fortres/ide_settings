@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,6 @@
     <mask>*.scss</mask>
     <mask>*.rtest</mask>
     <mask>*.rtest.js</mask>
-    <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*.routes.php</mask>
     <mask>routes.php</mask>
@@ -25,5 +25,6 @@
     <mask>*jsx</mask>
     <mask>*js</mask>
     <mask>*rtest.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
