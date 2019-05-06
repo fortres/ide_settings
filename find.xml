@@ -13,7 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.js*</mask>
-    <mask>*.scss</mask>
     <mask>*.rtest</mask>
     <mask>*.rtest.js</mask>
     <mask>*.routes.php</mask>
@@ -26,5 +25,6 @@
     <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
