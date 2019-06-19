@@ -24,9 +24,9 @@
     <mask>*.rtest</mask>
     <mask>*.rtest.js</mask>
     <mask>*.js*</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
