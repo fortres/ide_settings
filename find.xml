@@ -29,5 +29,6 @@
     <mask>*.jsx</mask>
     <mask>*.php</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
