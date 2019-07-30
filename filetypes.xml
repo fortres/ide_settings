@@ -5,8 +5,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="phtml" type="HTML" />
       <mapping pattern="FormContainer" type="JSX Harmony" />
-      <mapping pattern="reviews-main" type="PLAIN_TEXT" />
       <mapping pattern="teachers-custom" type="PLAIN_TEXT" />
+      <mapping pattern="reviews-main" type="PLAIN_TEXT" />
       <mapping pattern="docker_php-fpm" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -15,10 +15,8 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="scss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="container-company-dashboard.scss" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="_advantages-of-classes.scss" approved="true" type="SCSS" />
     </extensionMap>
   </component>
 </application>
