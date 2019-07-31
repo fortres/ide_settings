@@ -19,6 +19,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="_advantages-of-classes.scss" approved="true" type="SCSS" />
     </extensionMap>
   </component>
 </application>
