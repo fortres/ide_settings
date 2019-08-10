@@ -4,6 +4,22 @@
       <list>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
+          <option name="key" value="t:a" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="r:a" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="b:a" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="l:a" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
           <option name="key" value="d:n" />
         </TemplateKey>
         <TemplateKey>
@@ -24,6 +40,14 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
+          <option name="key" value="v:v" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="v:h" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
           <option name="key" value="ov:v" />
         </TemplateKey>
         <TemplateKey>
@@ -36,7 +60,55 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
+          <option name="key" value="w:a" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="bdrs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="va:t" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="va:m" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="va:b" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="ta" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="ta:c" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="ta:r" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="td:n" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="td:u" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
           <option name="key" value="fxd:c" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="jc:c" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="ai:c" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
