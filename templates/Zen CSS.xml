@@ -119,5 +119,7 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
-  <template name="bdr" value="border-radius: $END$;" description="border-radius" toReformat="false" toShortenFQNames="true" />
+  <template name="bdr" value="border-radius: $END$;" description="border-radius" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
