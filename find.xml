@@ -26,9 +26,9 @@
     <mask>*routes.php</mask>
     <mask>*.phtml</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.scss</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
