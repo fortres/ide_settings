@@ -24,12 +24,12 @@
     <mask>*.jsx</mask>
     <mask>*.php</mask>
     <mask>*routes.php</mask>
-    <mask>*.phtml</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.ts*</mask>
     <mask>*.scss</mask>
     <mask>*.scss</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
