@@ -3,33 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.routes.php</mask>
-    <mask>routes.php</mask>
-    <mask>*scss</mask>
-    <mask>*jsx</mask>
-    <mask>*js</mask>
-    <mask>*rtest.js</mask>
-    <mask>*.hbs</mask>
-    <mask>*.rtest</mask>
-    <mask>*.rtest.js</mask>
-    <mask>*.js*</mask>
-    <mask>*.jsx</mask>
-    <mask>*.php</mask>
-    <mask>*routes.php</mask>
-    <mask>*.js</mask>
-    <mask>*.ts</mask>
-    <mask>*.tsx</mask>
-    <mask>*.phtml</mask>
-    <mask>*.scss</mask>
-    <mask>*.scss</mask>
-    <mask>*.ts*</mask>
   </component>
 </application>
