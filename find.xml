@@ -29,10 +29,10 @@
     <mask>*.js</mask>
     <mask>*.tsx</mask>
     <mask>*.scss</mask>
-    <mask>*.phtml</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.ts*</mask>
     <mask>*main-routes.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
