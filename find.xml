@@ -16,5 +16,6 @@
     <mask>*.ts*</mask>
     <mask>*.ts</mask>
     <mask>*.phtml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
