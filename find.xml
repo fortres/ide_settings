@@ -17,5 +17,6 @@
     <mask>*.phtml</mask>
     <mask>*.scss</mask>
     <mask>*.ts*</mask>
+    <mask>*.liquid*</mask>
   </component>
 </application>
