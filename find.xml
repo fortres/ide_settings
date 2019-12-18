@@ -13,8 +13,9 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.ts*</mask>
     <mask>*.ts</mask>
+    <mask>*.ts*</mask>
     <mask>*.phtml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
