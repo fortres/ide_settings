@@ -122,4 +122,9 @@
   <template name="bdr" value="border-radius: $END$;" description="border-radius" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
+  <template name="tal" value="text-align:left;" description="text-align:left;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
 </templateSet>
