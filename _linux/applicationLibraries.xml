@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="embed" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_itsgot.com_embed.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_itsgot.com_embed.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
