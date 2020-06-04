@@ -8,6 +8,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
+      <mapping pattern="tabs-abstract" type="TypeScript" />
       <mapping pattern="widget-dictionary-and-notes" type="TypeScript JSX" />
       <removed_mapping ext="phtml" approved="true" type="HTML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
