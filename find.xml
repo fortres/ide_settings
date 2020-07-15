@@ -19,5 +19,6 @@
     <mask>*.phtml</mask>
     <mask>*.scss</mask>
     <mask>*.ts*</mask>
+    <mask>*rtest.ts*</mask>
   </component>
 </application>
