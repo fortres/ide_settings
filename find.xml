@@ -20,5 +20,6 @@
     <mask>*.scss</mask>
     <mask>*rtest.ts*</mask>
     <mask>*.ts*</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
