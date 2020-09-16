@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
@@ -13,7 +13,6 @@
     <mask>*.cjs</mask>
     <mask>*routes.php</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*rtest.ts*</mask>
     <mask>*.ts*</mask>
     <mask>*.tsx</mask>
@@ -22,5 +21,7 @@
     <mask>*.phtml</mask>
     <mask>*css</mask>
     <mask>*.ts</mask>
+    <mask>*.css</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
