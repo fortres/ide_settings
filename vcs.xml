@@ -14,6 +14,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="fortres" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.eddev.cf:10087" />
+          <option name="userName" value="yas.romas@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
