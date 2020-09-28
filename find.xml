@@ -16,11 +16,11 @@
     <mask>*.tsx</mask>
     <mask>*.js</mask>
     <mask>*css</mask>
-    <mask>*.ts</mask>
     <mask>*.css</mask>
     <mask>*rtest.ts*</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.phtml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
