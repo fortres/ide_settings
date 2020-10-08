@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -20,10 +21,10 @@
     <mask>*.css</mask>
     <mask>*rtest.ts*</mask>
     <mask>*.html</mask>
-    <mask>*.phtml</mask>
     <mask>*.ts</mask>
     <mask>*css</mask>
     <mask>*hbs</mask>
     <mask>*.scss</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
