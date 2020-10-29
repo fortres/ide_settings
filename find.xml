@@ -22,9 +22,9 @@
     <mask>*hbs</mask>
     <mask>*.phtml</mask>
     <mask>*.scss</mask>
-    <mask>*.ts*</mask>
     <mask>*.scss*</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
