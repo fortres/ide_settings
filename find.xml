@@ -21,11 +21,11 @@
     <mask>*.scss</mask>
     <mask>*.scss*</mask>
     <mask>*.php</mask>
-    <mask>*.ts</mask>
     <mask>*css</mask>
     <mask>*.html</mask>
     <mask>*.eml</mask>
     <mask>*.ts*</mask>
     <mask>*.phtml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
