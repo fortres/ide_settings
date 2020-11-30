@@ -28,5 +28,6 @@
     <mask>*.hbs</mask>
     <mask>*.html</mask>
     <mask>*rtest.ts*</mask>
+    <mask>.hbs</mask>
   </component>
 </application>
