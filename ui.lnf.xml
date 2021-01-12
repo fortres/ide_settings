@@ -1,5 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
