@@ -20,7 +20,6 @@
     <mask>*.hbs</mask>
     <mask>*rtest.ts*</mask>
     <mask>.hbs</mask>
-    <mask>*.html</mask>
     <mask>*.scss*</mask>
     <mask>*.tsx</mask>
     <mask>*routes.php</mask>
@@ -29,5 +28,6 @@
     <mask>*.phtml</mask>
     <mask>*.php</mask>
     <mask>*.ts*</mask>
+    <mask>*.html</mask>
   </component>
 </application>
