@@ -4,6 +4,7 @@
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrs" type="PLAIN_TEXT" />
       <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
+      <mapping pattern="*.d.ts" type="TypeScript" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
