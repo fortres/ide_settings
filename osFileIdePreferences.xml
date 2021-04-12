@@ -1,10 +1,5 @@
 <application>
   <component name="OSFileAssociationPreferences">
-    <option name="fileTypeNames">
-      <list>
-        <option value="TypeScript" />
-      </list>
-    </option>
     <option name="ideLocationHash" value="BE8FFFD73B89F8E009791493C86EEDAC" />
   </component>
 </application>
