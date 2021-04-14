@@ -27,8 +27,8 @@
     <mask>*.phtmlt</mask>
     <mask>*rtest.ts*</mask>
     <mask>*.php</mask>
-    <mask>*.ts*</mask>
     <mask>*.phtml</mask>
     <mask>*.scss</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
