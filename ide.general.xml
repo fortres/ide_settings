@@ -15,7 +15,6 @@
         <entry key="InsertOverwrite" value="false" />
         <entry key="JSONSchemaSelector" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
-        <entry key="git" value="false" />
         <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
