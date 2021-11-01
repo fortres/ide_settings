@@ -28,7 +28,7 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.ts*</mask>
     <mask>*.phtml</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
