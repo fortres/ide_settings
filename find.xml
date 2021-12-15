@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.ts*" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -21,7 +21,6 @@
     <mask>*.hbs</mask>
     <mask>.hbs</mask>
     <mask>*.scss*</mask>
-    <mask>*.tsx</mask>
     <mask>*routes.php</mask>
     <mask>*.phtmlt</mask>
     <mask>*.html</mask>
@@ -31,5 +30,6 @@
     <mask>*.phtml</mask>
     <mask>*.scss</mask>
     <mask>*.ts*</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
