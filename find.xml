@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
@@ -26,11 +27,11 @@
     <mask>*.tsx</mask>
     <mask>*.js</mask>
     <mask>*.js*</mask>
-    <mask>*.scss</mask>
     <mask>*.htm</mask>
     <mask>*.phtm</mask>
     <mask>*.phtml</mask>
     <mask>*rtest.ts*</mask>
     <mask>*.ts*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
