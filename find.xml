@@ -1,36 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="showResultsInSeparateView" value="true" />
-    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.xml</mask>
+    <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
-    <mask>*.sht</mask>
-    <mask>*.ats</mask>
-    <mask>*.cjs</mask>
-    <mask>*.css</mask>
-    <mask>*hbs</mask>
-    <mask>*css</mask>
-    <mask>*.eml</mask>
-    <mask>*.hbs</mask>
-    <mask>.hbs</mask>
-    <mask>*.scss*</mask>
-    <mask>*routes.php</mask>
-    <mask>*.phtmlt</mask>
-    <mask>*.html</mask>
-    <mask>*.php</mask>
-    <mask>*.ts</mask>
-    <mask>*.tsx</mask>
-    <mask>*.js</mask>
-    <mask>*.js*</mask>
+    <mask>*.ng</mask>
     <mask>*.htm</mask>
-    <mask>*.phtm</mask>
-    <mask>*.phtml</mask>
-    <mask>*rtest.ts*</mask>
-    <mask>*.ts*</mask>
-    <mask>*.scss</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.mts</mask>
+    <mask>*.cts</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
