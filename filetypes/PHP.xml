@@ -13,7 +13,4 @@
     </options>
     <keywords keywords="else;if;in" ignore_case="false" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="php" />
-  </extensionMap>
 </filetype>
