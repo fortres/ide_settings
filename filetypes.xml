@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="BoardController.php" type="AUTO_DETECTED" />
       <mapping pattern="EDClassController.php" type="AUTO_DETECTED" />
+      <mapping pattern="BoardController.php" type="AUTO_DETECTED" />
       <mapping pattern="IndexController.php" type="AUTO_DETECTED" />
       <mapping ext="phtml" type="HTML" />
       <mapping pattern=".prettierrs" type="PLAIN_TEXT" />
