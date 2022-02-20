@@ -1,21 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="EDClassController.php" type="AUTO_DETECTED" />
       <mapping pattern="BlogPostForm.php" type="AUTO_DETECTED" />
-      <mapping pattern="IndexController.php" type="AUTO_DETECTED" />
-      <mapping ext="phtml" type="HTML" />
-      <mapping pattern="BoardController.php" type="Native" />
       <mapping pattern=".prettierrs" type="PLAIN_TEXT" />
+      <mapping pattern="BoardController.php" type="PLAIN_TEXT" />
+      <mapping pattern="EDClassController.php" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="IndexController.php" type="PLAIN_TEXT" />
       <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping pattern="*.d.ts" type="TypeScript" />
       <removed_mapping ext="graphqlconfig" approved="true" type="GraphQL Config" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="php" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="php" approved="true" type="PHP" />
+      <removed_mapping ext="phtml" approved="true" type="HTML" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <removed_mapping pattern="GlossaryMain.tsx" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
