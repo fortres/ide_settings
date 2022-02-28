@@ -20,6 +20,7 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.hydrate</mask>
+    <mask>*.phtml</mask>
     <mask>*.ts*</mask>
   </component>
 </application>
