@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.hydrate" />
+    <option name="FILE_MASK" value="*.ts*" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -19,7 +19,7 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
-    <mask>*.ts*</mask>
     <mask>*.hydrate</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
