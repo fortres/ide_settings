@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="launcher-disbalancer-go-client-linux-amd64" type="AUTO_DETECTED" />
       <mapping pattern="BlogPostForm.php" type="AUTO_DETECTED" />
       <mapping ext="phtml" type="HTML" />
       <mapping pattern=".prettierrs" type="PLAIN_TEXT" />
