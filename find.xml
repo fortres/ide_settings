@@ -20,10 +20,10 @@
     <mask>*.php</mask>
     <mask>*.ts* || *.graphql</mask>
     <mask>*.ts*,*.graphql</mask>
-    <mask>*.phtml</mask>
     <mask>*.scss</mask>
     <mask>*.rtest.ts</mask>
     <mask>*.js</mask>
     <mask>*.ts*</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
