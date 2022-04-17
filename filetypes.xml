@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="phtml" type="HTML" />
       <mapping pattern=".prettierrs" type="PLAIN_TEXT" />
-      <mapping pattern="EDClassController.php" type="PLAIN_TEXT" />
       <mapping pattern="BoardController.php" type="PLAIN_TEXT" />
+      <mapping pattern="EDClassController.php" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="IndexController.php" type="PLAIN_TEXT" />
       <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
