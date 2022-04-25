@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="phtml" type="HTML" />
+      <mapping pattern=".prettierrs" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="*.d.ts" type="TypeScript" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="GraphQL Config" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="php" approved="true" type="PHP" />
+      <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="po" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
+      <removed_mapping pattern="BlogPostForm.php" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="BoardController.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="EDClassController.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="GlossaryMain.tsx" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="IndexController.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="launcher-disbalancer-go-client-linux-amd64" approved="true" type="AUTO_DETECTED" />
+    </extensionMap>
+  </component>
+</application>
