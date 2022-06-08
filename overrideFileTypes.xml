@@ -1,5 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file:///var/www/englishdom/module/B2B/src/Main/Controller/B2BCompanyController.php" value="AUTO_DETECTED" />
+    <file url="file:///var/www/englishdom/module/Dashboard/view/dashboard/pages/english-courses/data/advanced.php" value="AUTO_DETECTED" />
+    <file url="file:///var/www/englishdom/module/Dashboard/view/dashboard/pages/english-courses/data/native-speakers.php" value="AUTO_DETECTED" />
   </component>
 </application>
