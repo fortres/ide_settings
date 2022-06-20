@@ -1,7 +1,8 @@
 <templateSet group="Zen HTML">
-  <template name="&lt;nb&gt;" value="&amp;nbsp;" description="&amp;nbsp;" toReformat="false" toShortenFQNames="true">
+  <template name="nb" value="&amp;nbsp;" description="&amp;nbsp;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
