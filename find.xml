@@ -3,7 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.phtml" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -21,10 +21,10 @@
     <mask>*.ts* || *.graphql</mask>
     <mask>*.ts*,*.graphql</mask>
     <mask>*.rtest.ts</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.ts*</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
