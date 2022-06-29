@@ -127,4 +127,9 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
+  <template name="bgt" value="background:transparent;" description="background: transparent;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
 </templateSet>
