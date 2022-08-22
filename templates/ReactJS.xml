@@ -173,7 +173,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="props" value="this.props" description="React: this.props" toReformat="true" toShortenFQNames="true">
+  <template name="props" value="props.$END$" description="React: props" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
