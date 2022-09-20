@@ -2,10 +2,10 @@
   <component name="GraziConfig">
     <option name="enabledLanguages">
       <set>
+        <option value="Ukrainian" />
+        <option value="Russian" />
         <option value="English (US)" />
         <option value="Polish" />
-        <option value="Russian" />
-        <option value="Ukrainian" />
       </set>
     </option>
   </component>
