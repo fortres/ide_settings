@@ -25,7 +25,7 @@
     <mask>*.js*</mask>
     <mask>*.scss</mask>
     <mask>*.ts*</mask>
-    <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
