@@ -1,15 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="php" type="AUTO_DETECTED" />
       <mapping ext="phtml" type="HTML" />
       <mapping pattern=".prettierrs" type="PLAIN_TEXT" />
+      <mapping pattern="LanguageSwitcher.php" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="*.d.ts" type="TypeScript" />
       <removed_mapping ext="graphqlconfig" approved="true" type="GraphQL Config" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="graphqlconfig" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="php" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping ext="php" approved="true" type="Native" />
       <removed_mapping ext="php" approved="true" type="PHP" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="po" approved="true" type="PLAIN_TEXT" />
