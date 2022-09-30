@@ -26,10 +26,10 @@
     <mask>*.js</mask>
     <mask>*.rtest.ts</mask>
     <mask>*.hbs*</mask>
-    <mask>*.php</mask>
     <mask>*.js*</mask>
     <mask>*.scss</mask>
     <mask>*.ts*</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
