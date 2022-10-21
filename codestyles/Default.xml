@@ -2,7 +2,7 @@
   <option name="RIGHT_MARGIN" value="100" />
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="100" />
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
