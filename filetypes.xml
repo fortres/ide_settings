@@ -4,7 +4,6 @@
       <mapping ext="phtml" type="HTML" />
       <mapping pattern=".prettierrs" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
-      <mapping pattern="LanguageSwitcher.php" type="PLAIN_TEXT" />
       <mapping pattern="*.d.ts" type="TypeScript" />
       <removed_mapping ext="graphqlconfig" approved="true" type="GraphQL Config" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
