@@ -2,7 +2,7 @@
   <component name="UISettings">
     <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="true" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="EDITOR_TAB_LIMIT" value="40" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="MAX_LOOKUP_WIDTH2" value="937" />
@@ -11,7 +11,6 @@
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
-    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>
