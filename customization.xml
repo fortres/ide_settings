@@ -1,10 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="RunToolbarWidgetCustomizableActionGroup" is_group="true" forse_popup="false" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar Right" />
@@ -13,12 +8,6 @@
     <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="LocalHistory" is_group="true" forse_popup="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <path value="CodeWithMeToolbarGroupNewUi" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="FileHistory.KeymapGroup" icon="jar:file:/home/romas/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/223.7571.168/lib/app.jar!/expui/toolbar/unknown.svg" />
