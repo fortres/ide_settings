@@ -24,10 +24,10 @@
     <mask>*.html</mask>
     <mask>*.tsx</mask>
     <mask>*.schema*</mask>
-    <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>*.ts*</mask>
     <mask>*.scss</mask>
     <mask>*.phtml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
