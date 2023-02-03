@@ -23,6 +23,10 @@
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
   </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="Twig">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
